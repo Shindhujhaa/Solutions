@@ -24,6 +24,7 @@ Scanner sc=new Scanner(System.in);
   {
     a.italian();
   }
+  System.out.println(" Tq");
 }}
   
     
