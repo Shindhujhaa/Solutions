@@ -1,6 +1,14 @@
 import java.util.*
 class Main()
 {
+  public asian()
+{
+System.out.println("Thai noodles, FRied Rics,Burt garlic balls");
+}
+ public italian()
+{
+System.out.println("Pizza,pasta");
+}
 public Static void main(String a[])
 {
   Main o=new Main();
